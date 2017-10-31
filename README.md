@@ -7,4 +7,4 @@ In addition to landing page I have also uploaded for demo and can be accessed th
           and alternative links if the link does not work -> http://niagahoster.reschimedia.com/
           
 
-For the price we created hosting dynamically with parsing method json + Angular js 
+For the price hosting we created dynamically with parsing method json + Angular js 
